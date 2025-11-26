@@ -8,7 +8,7 @@ I'm passionate about exploring the world, continuously learning, and making a me
 
 * 🌍  I'm based in Ho Chi Minh City
 * ✉️  You can contact me at [thnndat236@gmail.com](mailto:thnndat236@gmail.com)
-* 🧠  I'm currently learning LangChain
+* 🧠  I'm currently learning MLflow, LangChain, AWS
 * 👥  I'm looking to collaborate on Machine Learning, Deep Learning, RAG, AI Agents projects
 * ⚡  Fun fact: I learn quickly and adapt easily, so no matter how new or unfamiliar a task is, I can complete it successfully in a short amount of time.
 
